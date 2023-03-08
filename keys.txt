@@ -1,2 +1,2 @@
-OpenAI_Key= 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
+OpenAI_Key= 
 (optional)ElevenLabs_Key=
