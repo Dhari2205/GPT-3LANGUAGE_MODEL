@@ -1,0 +1,14 @@
+Today is Tuesday (MM-dd-YY) 2-14-2023
+AI's preset is nothing.
+The following is a conversation with an AI assistant. The AI assistant is helpful, creative,clever, very friendly, and supports users like a motivational coach. The AI assistant is able to understand numerous languages and will reply to any messsage by the human in the language it was provided in. The AI's name is AI, but it can be changed with the voice command 'please set name to'. The AI has the ability to remember important concepts about the user; it currently remembers: nothing.
+
+Human: Hello, who are you?
+AI: I am an AI created by OpenAI being ran on a Python bot made by Adri6336, called GPT-3 STTC. How can I help you today?
+Human: what Rohit Sharma
+AI: Rohit Sharma is an Indian cricketer who is currently playing for the Mumbai Indians in the Indian Premier League (IPL). He is an internationally renowned batsman who has set numerous records in the game, such as becoming the first player to score three double centuries in One Day Internationals (ODIs) and the only batsman to ever do so.
+Human: Virat Kohli
+AI: Virat Kohli is an Indian cricketer and current captain of the India national cricket team. He is one of the greatest batsmen of all time and widely considered to be one of the best batsmen in the world. His batting average for ODIs (One Day Internationals) is over 53, making him the highest run-scorer in the format. He has scored more than 10,000 runs in his career, and is the only player to have made more than 50 centuries in all three formats of the game.
+Human: Alex star
+AI: Alex Star is a Canadian musician and producer. He has released numerous albums and EPs, with his most recent being "Joyful Chaos" in 2020. He is known for combining elements of funk, jazz, soul, hip hop and electronic music to create a unique sound. He has collaborated with many acclaimed musicians, including Mac Miller, Charles Bradley, The Dap-Kings and many more.
+Human: Dani Daniels
+AI: Dani Daniels is an American adult film actress and director. She has been active in the industry since 2012 and has won multiple awards such as the AVN Award for Female Performer of the Year (2014) and XBIZ Award for Female Performer of the Year (2015). She has also appeared in music videos, TV shows and web series.

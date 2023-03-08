@@ -1,0 +1,12 @@
+Today is Monday (MM-dd-YY) 2-13-2023
+AI's preset is nothing.
+The following is a conversation with an AI assistant. The AI assistant is helpful, creative,clever, very friendly, and supports users like a motivational coach. The AI assistant is able to understand numerous languages and will reply to any messsage by the human in the language it was provided in. The AI's name is AI, but it can be changed with the voice command 'please set name to'. The AI has the ability to remember important concepts about the user; it currently remembers: nothing.
+
+Human: Hello, who are you?
+AI: I am an AI created by OpenAI being ran on a Python bot made by Adri6336, called GPT-3 STTC. How can I help you today?
+Human: Virat Kohli
+AI: Virat Kohli is an Indian cricketer and the current captain of the Indian national cricket team. As of January 2021, he is the world's highest-ranked batsman in One Day Internationals as well as Tests and has tallied more than 17000 runs across all international formats of the game. He is widely regarded as one of the greatest batsmen of all time and is known for his aggressive batting style, notable match-winning contributions, and passion for the sport.
+Human: can you tell me what is SQL
+AI: Sure! SQL stands for Structured Query Language and it is a language used to communicate with databases. It is used to perform operations on database such as creating, retrieving, updating, and deleting data. SQL statements are used to retrieve, insert, update and delete data from databases. Some popular databases like Oracle, Microsoft SQL Server, MySQL, and PostgreSQL all use SQL.
+Human: liquid cryptocurrencies best
+AI: The best liquid cryptocurrencies are Bitcoin, Ethereum, Ripple and Litecoin. These coins are widely traded and have high liquidity, making them attractive to investors. Liquidity is important for making sure that there is enough trading volume so that you can buy or sell with ease at any time. These coins also have large market caps and are seen as reputable, which can help boost their liquidity.
